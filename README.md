@@ -1,2 +1,2 @@
-# Jobsheet-5
-Kumpulan coding dari Jobsheet 5 Dasar Pemrograman Semester 1
+# Jobsheet 5
+A collection of Jobsheet 5 programming code from the basic programming course semester 1 using the Java programming language
